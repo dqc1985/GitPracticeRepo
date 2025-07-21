@@ -1,0 +1,6 @@
+Fun Fact by David Carlisle:
+
+“Success in tech doesn’t come from knowing everything—it comes from being willing to learn anything.”
+
+This file was created as part of my Week 2 Git assignment for IT510 at Herzing University.
+It marks my first contribution to this cloned repository using GitHub Desktop.
